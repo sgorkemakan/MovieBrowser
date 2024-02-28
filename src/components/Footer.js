@@ -22,22 +22,22 @@ export const Footer = () => {
           </a>
         </span>
         <ul className="flex flex-wrap items-center mt-3 text-sm font-medium text-gray-500 dark:text-gray-400 sm:mt-0">
-       <li>
-            <a
-              href="https://www.facebook.com/SahinGorkemAkan"
-              target="_blank"
-              className="hover:underline me-4 md:me-6"
-            >
-              My Facebook
-            </a>
-          </li>
-          <li>
+         <li>
             <a
               href="mailto:s.gorkemakan@gmail.com"
               target="_blank"
               className="hover:underline me-4 md:me-6"
             >
               Mail Me
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://www.facebook.com/SahinGorkemAkan"
+              target="_blank"
+              className="hover:underline me-4 md:me-6"
+            >
+              My Facebook
             </a>
           </li>
           <li>
